@@ -28,71 +28,60 @@ Procedure:
 2.	Click on vendor name. Then, all the details pertaining to that vendor will be displayed under the “Overview” tab.
 3.	Under Vendor Key Info section: “Vendor Notes for Team” - Enter all the information that you acquired in this field.
 4.	To acquire all the required information, follow the below three step process in sequence:
-- Send Custom SMS
-- Scraping
-- Contact vendor
-- Sending a Custom SMS:
-1.	Select the drop down next to Add in Order to Call. Then, from the list, select Send Custom SMS button.
+   - Send Custom SMS
+   - Scraping
+   - Contact vendor
+   - Sending a Custom SMS:
+      1.	Select the drop down next to Add in Order to Call. Then, from the list, select Send Custom SMS button.
 
  
 
-Send Email & SMS window appears.
+         Send Email & SMS window appears.
 
  
 
-2.	Select the checkbox next to “Use Existing SMS Template”.
+      2.	Select the checkbox next to “Use Existing SMS Template”.
 
  
 
-Once you select the above checkbox, select SMS Title field will be auto-populated.
+         Once you select the above checkbox, select SMS Title field will be auto-populated.
 
-3.	Select SMS Title – Select the required title from the drop down list based on the situation.
-
- 
-
-Once you select the SMS title, all the fields will be auto-populated as per the in-built existing template.
+      3.	Select SMS Title – Select the required title from the drop down list based on the situation.
 
  
 
-4.	Click on Send Message button.
+         Once you select the SMS title, all the fields will be auto-populated as per the in-built existing template.
 
  
 
-You will receive all the communication to vendor@ssgrealestate.com.
+      4.	Click on Send Message button.
 
-5.	Write all the received information in “Vendor Notes for Team” field.
-Scraping:
+ 
+
+         You will receive all the communication to vendor@ssgrealestate.com.
+
+      5.	Write all the received information in “Vendor Notes for Team” field.
+
+### Scraping:
+
 1.	Search using vendor name on “Google” (example: search “Nelson Contracting Roofing Springfield VA”). All the results of vendor available in Angi, Facebook, and Yelp will be displayed. Google ratings and reviews will be found on the right side.
-
- 
-
-2.	Make a note of the (number of reviews and ratings on Google, Anji, Yelp, and Facebook, Likes and Followers on Facebook).
-
- 
-
- 
-
- 
-
+2.	Make a note of the (number of reviews and ratings on Google, Anji, Yelp, and Facebook, Likes and Followers on Facebook). 
 3.	Find out “Areas they serve, services they offer, working hours, number of years they are in business, etc.” on their website-> About page. (Example: nelsoncontractingservices).
-
- 
-
 4.	Document all the collected data in “Vendor Notes for Team” field.
 5.	If you are unable to find any information using the above steps, try to find out using “Contact vendor” method.
 Contact vendor:
-1.	Click on “Call” button to call the vendor
+   1.	Click on “Call” button to call the vendor
 
  
 
-2.	During the call, gather information such as speaking person name, availability, Service call rate/hourly rate, Vendor service call pricing and info, what’s included in service call pricing, type of vendor, etc.
+   2.	During the call, gather information such as speaking person name, availability, Service call rate/hourly rate, Vendor service call pricing and info, what’s       included in service call pricing, type of vendor, etc.
 
-Note:
-•	If the vendor is unable to answer your call, try calling them again after sometime or the next day. Document all the collected data in “Vendor Notes for Team” field. (Example: Called 5 times and there is no response).
-•	If still there is no response, leave a voice message and gather information. If there is a response, write the gathered information in “Vendor Notes for Team”. Otherwise, write that vendor is not communicating.
-Ask Vendor Type questions
+*Note:
+- If the vendor is unable to answer your call, try calling them again after sometime or the next day. Document all the collected data in “Vendor Notes for Team” field. (Example: Called 5 times and there is no response).
+- If still there is no response, leave a voice message and gather information. If there is a response, write the gathered information in “Vendor Notes for Team”. Otherwise, write that vendor is not communicating.
+Ask Vendor Type questions*
 
-5.	After acquiring all the sufficient data, judge whether the vendor is a preferred vendor or not considering all the credibility parameters:
+   5.	After acquiring all the sufficient data, judge whether the vendor is a preferred vendor or not considering all the credibility parameters:
 •	Availability
 •	Number of reviews
 •	Average rating of 4 and above
