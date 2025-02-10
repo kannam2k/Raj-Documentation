@@ -1,10 +1,12 @@
-## **API Overview:**
+# People API
 
-### **Introduction**
+### **API Overview:**
+
+#### **Introduction**
 
 Welcome to the swapi, the Star Wars API! This documentation should help you familiarise yourself with the resources available and how to consume them with HTTP requests. If you're after a native helper library then I suggest you scroll down and check out what's available. Read through the getting started section before you dive in. Most of your problems should be solved just by reading through it.
 
-### **Getting started**
+#### **Getting started**
 
 Let's make our first API request to the Star Wars API!
 
@@ -14,7 +16,7 @@ Open up a terminal and use curl or httpie to make an API request for a resource.
 
 We'll use httpie for our examples as it displays responses nicely and gives us a whole lot more useful information. If you don't want to download httpie, just use the curl command instead.
 
- **Here is the response we get:**
+&#x20;**Here is the response we get:**
 
 HTTP/1.0 200 OK
 
@@ -58,29 +60,29 @@ Content-Type: application/json
 
 If your response looks slightly different don't panic. This is probably because more data has been added to swapi since we made this documentation.
 
-### **Base URL**
+#### **Base URL**
 
 The Base URL is the root URL for all of the API, if you ever make a request to swapi and you get back a 404 NOT FOUND response then check the Base URL first.
 
-### **The Base URL for swapi is:**
+#### **The Base URL for swapi is:**
 
 > [https://swapi.dev/api/](https://swapi.dev/api/)
 
 The documentation below assumes you are prepending the Base URL to the endpoints in order to make requests.
 
-### **Rate limiting**
+#### **Rate limiting**
 
-Swapi has rate limiting to prevent malicious abuse (as if anyone would abuse Star Wars data!) and to make sure our service can handle a potentially large amount of traffic. Rate limiting is done via IP address and is currently limited to 10,000 API request per day. This is enough to request all the data on the website at least ten times over. There should be no reason for hitting the rate limit. 
+Swapi has rate limiting to prevent malicious abuse (as if anyone would abuse Star Wars data!) and to make sure our service can handle a potentially large amount of traffic. Rate limiting is done via IP address and is currently limited to 10,000 API request per day. This is enough to request all the data on the website at least ten times over. There should be no reason for hitting the rate limit.&#x20;
 
-### **Authentication**
+#### **Authentication**
 
 Swapi is a completely open API. No authentication is required to query and get data. This also means that we've limited what you can do to just GET-ing the data. If you find a mistake in the data, then tweet the author or email him.
 
-### **JSON Schema**
+#### **JSON Schema**
 
-All resources support JSON Schema. Making a request to /api/<resource>/schema will give you the details of that resource. This will allow you to programmatically inspect the attributes of that resource and their types.
+All resources support JSON Schema. Making a request to /api//schema will give you the details of that resource. This will allow you to programmatically inspect the attributes of that resource and their types.
 
-### **Searching**
+#### **Searching**
 
 All resources support a search parameter that filters the set of resources returned. This allows you to make queries like:
 
@@ -88,21 +90,21 @@ All resources support a search parameter that filters the set of resources retur
 
 All searches will use case-insensitive partial matches on the set of search fields. To see the set of search fields for each resource, check out the individual resource documentation. For more information on advanced search terms see here.
 
----
+***
 
-## **API Reference** 
+### **API Reference**&#x20;
 
-### **People**
+#### **People**
 
 A People resource is an individual person or character within the Star Wars universe. This API is used to get all the people resources, get a specific people resource, and view the JSON schema for this resource.
 
-### **Method:** GET
+#### **Method:** GET
 
-### **Request URL:**
+#### **Request URL:**
 
 > [https://swapi.dev/api/people](https://swapi.dev/api/people)
 
-### **Request Headers:**
+#### **Request Headers:**
 
 Authorization / Authentication: No Auth
 
@@ -110,16 +112,13 @@ Content Type: application/json
 
 Accept: application/json
 
-### **End Point:**
+#### **End Point:**
 
--   /people/ -- get all the people resources
-    
--   /people/:id/ -- get a specific people resource
-    
--   /people/schema/ -- view the JSON schema for this resource
-    
+* /people/ -- get all the people resources
+* /people/:id/ -- get a specific people resource
+* /people/schema/ -- view the JSON schema for this resource
 
-### **Parameters:**
+#### **Parameters:**
 
 **Parameter**
 
@@ -127,103 +126,103 @@ Accept: application/json
 
 **Description**
 
-Name *
+Name \*
 
 string
 
 The name of this person.
 
-Height *
+Height \*
 
 string
 
 The height of the person in centimeters.
 
-mass *
+mass \*
 
 string
 
 The mass of the person in kilograms.
 
-Hair_color *
+Hair\_color \*
 
 string
 
 The hair color of this person. Will be "unknown" if not known or "n/a" if the person does not have hair.
 
-Skin_color *
+Skin\_color \*
 
 string
 
 The skin color of this person.
 
-Eye_color *
+Eye\_color \*
 
 string
 
 The eye color of this person. Will be "unknown" if not known or "n/a" if the person does not have an eye.
 
-Birth_year *
+Birth\_year \*
 
 string
 
 The birth year of the person, using the in-universe standard of BBY or ABY - Before the Battle of Yavin or After the Battle of Yavin. The Battle of Yavin is a battle that occurs at the end of Star Wars episode IV: A New Hope.
 
-gender *
+gender \*
 
 string
 
 The gender of this person. Either "Male", "Female" or "unknown", "n/a" if the person does not have a gender.
 
-Homeworld *
+Homeworld \*
 
 string
 
 The URL of a planet resource, a planet that this person was born on or inhabits.
 
-films *
+films \*
 
 Array
 
 An array of film resource URLs that this person has been in.
 
-species *
+species \*
 
 Array
 
 An array of species resource URLs that this person belongs to.
 
-Starships *
+Starships \*
 
 Array
 
 An array of starship resource URLs that this person has piloted.
 
-Vehicles *
+Vehicles \*
 
 Array
 
 An array of vehicle resource URLs that this person has piloted.
 
-url *
+url \*
 
 String
 
 The hypermedia URL of this resource.
 
-Created *
+Created \*
 
 String
 
 The ISO 8601 date format of the time that this resource was created.
 
-Edited *
+Edited \*
 
 String
 
 The ISO 8601 date format of the time that this resource was edited.
 
-### **Response Codes:**
+#### **Response Codes:**
 
 Every web code returns a response code to display whether it is successful or had an error.
 
@@ -241,7 +240,7 @@ Invalid input
 
 404
 
-### **Example Response:**
+#### **Example Response:**
 
 ```
 {
