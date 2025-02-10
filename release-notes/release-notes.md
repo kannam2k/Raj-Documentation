@@ -12,4 +12,4 @@ This chart provides information corresponding to different groups namely New, Ne
 
 Overall, for total BCE, the new group made the least contribution, while the long term staff made the highest contribution. In comparison, for the number of developers, the New-Inactive group made the least contribution, while the long term staff made the highest contribution.
 
-![](<../.gitbook/assets/0 (1).png>)
+![](<../.gitbook/assets/0 (1) (1).png>)

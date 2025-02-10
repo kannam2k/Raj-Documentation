@@ -137,8 +137,8 @@ This API creates a person or character within the Star Wars Universe.
 
 For all people
 
-![](../.gitbook/assets/0.png)
+![](<../.gitbook/assets/0 (1).png>)
 
 For a single user:
 
-![](../.gitbook/assets/1.png)
+![](<../.gitbook/assets/1 (1).png>)

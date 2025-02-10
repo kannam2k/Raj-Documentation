@@ -8,4 +8,6 @@
   * [Getting Started](<User Manuals/Creating a Trail Store on StoreHippo.md>)
 * [Release Notes](release-notes/README.md)
   * [Release Notes](release-notes/release-notes.md)
+* [Standard Operating Procedures](standard-operating-procedures/README.md)
+  * [LATE RENTS & EVICTION](standard-operating-procedures/late-rents-and-eviction.md)
 * [About me](about-me.md)
