@@ -6,5 +6,6 @@
   * [Star Wars API Documentation](api-documentation/star-wars-api-documentation.md)
 * [User Manuals](user-manuals/README.md)
   * [Getting Started](<User Manuals/Creating a Trail Store on StoreHippo.md>)
-  * [Release Notes](user-manuals/release-notes.md)
+* [Release Notes](release-notes/README.md)
+  * [Release Notes](release-notes/release-notes.md)
 * [About me](about-me.md)
