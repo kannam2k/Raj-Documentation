@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Release Notes
 
 **New Features**
