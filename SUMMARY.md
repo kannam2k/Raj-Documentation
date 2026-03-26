@@ -5,7 +5,7 @@
   * [People API](<API Documentation/People API.md>)
   * [Star Wars API Documentation](api-documentation/star-wars-api-documentation.md)
 * [User Manuals](user-manuals/README.md)
-  * [Getting Started](<User Manuals/Creating a Trail Store on StoreHippo.md>)
+  * [Getting Started with StoreHippo](<User Manuals/Creating a Trail Store on StoreHippo.md>)
 * [Release Notes](release-notes/README.md)
   * [Release Notes](release-notes/release-notes.md)
 * [Standard Operating Procedures](standard-operating-procedures/README.md)
