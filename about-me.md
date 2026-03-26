@@ -1,3 +1,22 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
 # About me
 
 My name is Raj Kumar, and I have over 10 years of experience in Technical Writing. Here, I will share my experiences in tech writing, the challenges I faced and how I addressed them, and my future goals.\
