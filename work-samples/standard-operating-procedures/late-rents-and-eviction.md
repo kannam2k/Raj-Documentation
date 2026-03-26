@@ -48,7 +48,7 @@ _Note:_
 
        _Note: If the status is already “In Eviction”, check the notes column and follow the Eviction steps as mentioned in the “Eviction” section._
 
-![](<../.gitbook/assets/0 (2).png>)
+![](<../../.gitbook/assets/0 (2).png>)
 
 *
   1. Check [ZOHO](https://crm.zoho.com/crm/org635091059/tab/CustomModule58/custom-view/2135217000196839232/list) to verify whether any rent payment is made in the last 7 days
@@ -130,16 +130,15 @@ _Have an amazing day ahead! Cheers, Bye!_
 #### EVICTION - STEPS TO FOLLOW: <a href="#heading-h.voghkvv0njoc" id="heading-h.voghkvv0njoc"></a>
 
 1. If the Tenant’s rent payment is already 10 days past due, and no success through “Late Rent Follow up” process as mentioned above, e-mail the attorney using the Email Template for the specific submarket and ask them to start the eviction process. Attach the Lease document, Ledger, and also the Intake Form along with the e-mail.
-   1. Lease copy of the respective Tenant can be found in the contacts module under the “Attachments” section at the very bottom of the page.\
+   1. Lease copy of the respective Tenant can be found in the contacts module under the “Attachments” section at the very bottom of the page.<br>
 
-
-![](<../.gitbook/assets/1 (2).png>)
+![](<../../.gitbook/assets/1 (2).png>)
 
 *
   1. Ledger can found under [Sage Invoices](https://yesibuyhouses.com/admin/sage/invoices)
      1. Search for the customer name under invoices and download as Excel, CSV, or PDF to attach in the e-mail to be sent to the eviction attorney.
 
-![](<../.gitbook/assets/2 (1).png>)
+![](<../../.gitbook/assets/2 (1).png>)
 
 *
   1. [Intake Form](https://drive.google.com/drive/u/0/folders/1SiR7Lj0frRyvBQpn_x14Ja12DtXosl8R) template

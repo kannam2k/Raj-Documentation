@@ -47,15 +47,15 @@ Once we have a database, if we receive any maintenance call, we will check our v
 
 _Note: Make sure that “missing info all including availability vendor” is filtered out._
 
-![](<../.gitbook/assets/0 (3).png>)
+![](<../../.gitbook/assets/0 (3).png>)
 
 1. Click on vendor name. Then, all the details pertaining to that vendor will be displayed under the “Overview” tab.
 
-![](<../.gitbook/assets/1 (3).png>)
+![](<../../.gitbook/assets/1 (3).png>)
 
 1. Under Vendor Key Info section: “Vendor Notes for Team” - Enter all the information that you acquired in this field.
 
-![](<../.gitbook/assets/2 (2).png>)
+![](<../../.gitbook/assets/2 (2).png>)
 
 1. To acquire all the required information, follow the below three step process in sequence:
 
@@ -67,29 +67,29 @@ _Note: Make sure that “missing info all including availability vendor” is fi
 
 1. Select the drop down next to Add in Order to Call. Then, from the list, select Send Custom SMS button.
 
-![](../.gitbook/assets/3.png)
+![](../../.gitbook/assets/3.png)
 
 Send Email & SMS window appears.
 
-![](../.gitbook/assets/4.png)
+![](../../.gitbook/assets/4.png)
 
 1. Select the checkbox next to “Use Existing SMS Template”.
 
-![](../.gitbook/assets/5.png)
+![](../../.gitbook/assets/5.png)
 
 Once you select the above checkbox, select SMS Title field will be auto-populated.
 
 1. Select SMS Title – Select the required title from the drop down list based on the situation.
 
-![](../.gitbook/assets/6.png)
+![](../../.gitbook/assets/6.png)
 
 Once you select the SMS title, all the fields will be auto-populated as per the in-built existing template.
 
-![](../.gitbook/assets/7.png)
+![](../../.gitbook/assets/7.png)
 
 1. Click on Send Message button.
 
-![](../.gitbook/assets/8.png)
+![](../../.gitbook/assets/8.png)
 
 You will receive all the communication to [vendor@ssgrealestate.com](mailto:vendor@ssgrealestate.com).
 
@@ -99,19 +99,19 @@ You will receive all the communication to [vendor@ssgrealestate.com](mailto:vend
 
 1. Search using vendor name on “Google” (example: search “Nelson Contracting Roofing Springfield VA”). All the results of vendor available in Angi, Facebook, and Yelp will be displayed. Google ratings and reviews will be found on the right side.
 
-![](../.gitbook/assets/9.png)
+![](../../.gitbook/assets/9.png)
 
 1. Make a note of the (number of reviews and ratings on Google, Anji, Yelp, and Facebook, Likes and Followers on Facebook).
 
-![](../.gitbook/assets/10.png)
+![](../../.gitbook/assets/10.png)
 
-![](../.gitbook/assets/11.png)
+![](../../.gitbook/assets/11.png)
 
-![](../.gitbook/assets/12.png)
+![](../../.gitbook/assets/12.png)
 
 1. Find out “Areas they serve, services they offer, working hours, number of years they are in business, etc.” on their website-> About page. (Example: [nelsoncontractingservices](https://nelsoncontractingservices.com/about/)).
 
-![](../.gitbook/assets/13.png)
+![](../../.gitbook/assets/13.png)
 
 1. Document all the collected data in “Vendor Notes for Team” field.
 2. If you are unable to find any information using the above steps, try to find out using “Contact vendor” method.
@@ -120,7 +120,7 @@ You will receive all the communication to [vendor@ssgrealestate.com](mailto:vend
 
 1. Click on “Call” button to call the vendor
 
-![](../.gitbook/assets/14.png)
+![](../../.gitbook/assets/14.png)
 
 1. During the call, gather information such as speaking person name, availability, Service call rate/hourly rate, Vendor service call pricing and info, what’s included in service call pricing, type of vendor, etc.
 
