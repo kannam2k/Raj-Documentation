@@ -12,3 +12,4 @@
   * [LATE RENTS & EVICTION](standard-operating-procedures/late-rents-and-eviction.md)
   * [Vendor Management](standard-operating-procedures/vendor-management.md)
 * [About me](about-me.md)
+* [Work Samples](work-samples.md)
