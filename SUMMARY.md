@@ -12,5 +12,7 @@
   * [Standard Operating Procedures](work-samples/standard-operating-procedures/README.md)
     * [LATE RENTS & EVICTION](work-samples/standard-operating-procedures/late-rents-and-eviction.md)
     * [Vendor Management](work-samples/standard-operating-procedures/vendor-management.md)
+* [Technical Writing](technical-writing.md)
+* [AI Agents](ai-agents.md)
 * [About me](about-me.md)
 * [Get in touch! +918919992411](get-in-touch-+918919992411.md)
