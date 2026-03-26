@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Greetings and welcome to my Documentation Site!](README.md)
+* [Greetings and welcome to my Portfolio!](README.md)
 * [API Documentation](api-documentation/README.md)
   * [People API](<API Documentation/People API.md>)
   * [Star Wars API Documentation](api-documentation/star-wars-api-documentation.md)
