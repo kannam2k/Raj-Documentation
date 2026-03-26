@@ -1,6 +1,6 @@
 # About me
 
-My name is Raj Kumar, and I have over 5 years of experience in Technical Writing. In this cover letter, I will share my experiences in tech writing, the challenges I faced and how I addressed them, and my future goals…\
+My name is Raj Kumar, and I have over 10 years of experience in Technical Writing. Here, I will share my experiences in tech writing, the challenges I faced and how I addressed them, and my future goals.\
 \
 My Technical Writing experience&#x20;
 
@@ -41,8 +41,7 @@ Process Documentation Challenges:
 QC Standards:
 
 During my initial technical writing journey, my documents only met 80% of the organizational standards because I overlooked certain guidelines regarding word usage and abbreviations. To improve this, I developed a detailed checklist of the organizational standards and established a thorough self-review process prior to submitting documents. Then, I achieved full compliance with quality control (QC) standards.\
-\
-
+<br>
 
 E-Signature Project:
 
