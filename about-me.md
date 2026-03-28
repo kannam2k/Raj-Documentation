@@ -82,13 +82,11 @@ After the launch, the e-signature platform faced a few operational challenges, s
 
 To overcome this, I worked closely with the development team and resolved technical problems
 
-**PLM Documentation**
-
-Documentation Format
+#### Documentation Format of PLM Documentation
 
 I originally intended to develop standard Word document training guides. However, the client asked for a more engaging presentation tailored to their Design Engineers.
 
-Solution
+**Solution**
 
 I transformed the documentation into a PowerPoint format that included:
 
@@ -97,7 +95,7 @@ I transformed the documentation into a PowerPoint format that included:
 
 This approach improved user understanding by providing intuitive, visually-driven documentation. The innovative method received positive feedback.
 
-Documenting Complex Processes
+**Documenting Complex Processes**
 
 Addressing essential PLM topics such as Promotion Requests, Change Requests, and Change Notices necessitated a different documentation strategy.
 
