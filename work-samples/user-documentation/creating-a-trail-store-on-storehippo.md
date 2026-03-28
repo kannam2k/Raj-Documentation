@@ -23,31 +23,19 @@ layout:
 
 You can start your 14-day trial store absolutely free by registering yourself on StoreHippo e-commerce platform. If you haven't done it yet, what are you waiting for? Go ahead and create the e-commerce store of your dreams following the below steps.
 
-Navigate to [www.storehippo.com](http://www.storehippo.com). You can see the StoreHippo interface.
-
-![](file:///C:/Users/Khushi/Dropbox/PC/Documents/My%20RoboHelp%20Projects/StoreHippo/contents/assets/images/image.png)
-
-To get started with your store creation you can choose any two two options either SCHEDULE A DEMO or FREE TRAIL. To Schedule a Demo, select SCHEDULE A DEMO button. You will be directed to the Schedule a Demo screen.
-
-![](file:///C:/Users/Khushi/Dropbox/PC/Documents/My%20RoboHelp%20Projects/StoreHippo/contents/assets/images/image1.png)
-
-Fill all the following necessary fields:
-
-* Name: Enter the name of the user.
-* Work Email: Enter your work Email address to receive notifications.
-* Company: Enter your company name on which you wanted to create your store.
-* Phone: Enter your phone number selecting your desired country code.
-* Message: Enter your message or any clarification tthat you wanted to convey.
-
-Select SUBMIT button.
-
-![](file:///C:/Users/Khushi/Dropbox/PC/Documents/My%20RoboHelp%20Projects/StoreHippo/contents/assets/images/image2.png)
+1. Navigate to [www.storehippo.com](http://www.storehippo.com). You can see the StoreHippo interface.
+2. To get started with your store creation you can choose any two two options either SCHEDULE A DEMO or FREE TRAIL. To Schedule a Demo, select SCHEDULE A DEMO button. You will be directed to the Schedule a Demo screen.
+3. Fill all the following necessary fields:
+   1. Name: Enter the name of the user.
+   2. Work Email: Enter your work Email address to receive notifications.
+   3. Company: Enter your company name on which you wanted to create your store.
+   4. Phone: Enter your phone number selecting your desired country code.
+   5. Message: Enter your message or any clarification tthat you wanted to convey.
+4. Select SUBMIT button.
 
 You will see a message Demo Request has been submitted successfully. StoreHippo support team will reach out to you to Create your Store.
 
 To start using Free Trail option, select FREE TRIAL button. You will be directed to the Sign Up screen.
-
-![](file:///C:/Users/Khushi/Dropbox/PC/Documents/My%20RoboHelp%20Projects/StoreHippo/contents/assets/images/image3.png)
 
 Fill all the following necessary (Store Name, Email Address, Password, Contact number, Company Name and What are you planning to build) fields:
 
