@@ -15,5 +15,6 @@
 * [My Documentation Experiences](my-documentation-experiences.md)
 * [Resume](resume.md)
 * [AI Agents](ai-agents.md)
+* [How-to Videos](how-to-videos.md)
 * [About me](about-me.md)
 * [Get in touch! +918919992411](get-in-touch-+918919992411.md)
