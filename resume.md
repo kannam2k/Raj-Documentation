@@ -1,6 +1,2 @@
----
-icon: page
----
-
 # Resume
 
