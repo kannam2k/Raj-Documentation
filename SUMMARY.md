@@ -4,6 +4,7 @@
 * [Work Samples](work-samples/README.md)
   * [Software Documentation](work-samples/user-documentation/README.md)
     * [Getting Started with StoreHippo](work-samples/user-documentation/creating-a-trail-store-on-storehippo.md)
+    * [ReviewKeep Setup Guide](work-samples/user-documentation/reviewkeep-setup-guide.md)
   * [API Documentation](work-samples/api-documentation/README.md)
     * [People API](work-samples/api-documentation/people-api.md)
     * [Star Wars API Documentation](work-samples/api-documentation/star-wars-api-documentation.md)

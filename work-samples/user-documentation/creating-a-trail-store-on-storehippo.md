@@ -21,66 +21,35 @@ layout:
 
 ## Creating a Trail Store on StoreHippo
 
-You can start your 14-day trial store absolutely free by registering yourself on StoreHippo e-commerce platform. If you haven't done it yet, what are you waiting for? Go ahead and create the e-commerce store of your dreams following the below steps.
+You can start your 14-day trial store absolutely free by registering on the StoreHippo e-commerce platform. If you have not done it yet, what are you waiting for? Go ahead and create the e-commerce store of your dreams following the steps below:
 
 1. Navigate to [www.storehippo.com](http://www.storehippo.com). You can see the StoreHippo interface.
-2. To get started with your store creation you can choose any two two options either SCHEDULE A DEMO or FREE TRAIL. To Schedule a Demo, select SCHEDULE A DEMO button. You will be directed to the Schedule a Demo screen.
-3. Fill all the following necessary fields:
-   1. Name: Enter the name of the user.
-   2. Work Email: Enter your work Email address to receive notifications.
-   3. Company: Enter your company name on which you wanted to create your store.
-   4. Phone: Enter your phone number selecting your desired country code.
-   5. Message: Enter your message or any clarification tthat you wanted to convey.
-4. Select SUBMIT button.
+2. To get started with your store creation, you can choose any two options: either SCHEDULE A DEMO or FREE TRIAL.&#x20;
+   1. To schedule a Demo, select SCHEDULE A DEMO button. You will be directed to the Schedule a Demo screen.
+      1. Fill all the following necessary fields:
+         1. Name: Enter the name of the user.
+         2. Work Email: Enter your work Email address to receive notifications.
+         3. Company: Enter your company name for which you want to create your store.
+         4. Phone: Enter your phone number, selecting your desired country code.
+         5. Message: Enter your message or any clarification that you wanted to convey.
+   2. Select SUBMIT button.\
+      You will see a message Demo Request has been submitted successfully. StoreHippo support team will reach out to you to create your Store.
+   3. To start using the Free Trial option, select FREE TRIAL button. You will be directed to the Sign Up screen.
+      1. Fill all the following necessary (Store Name, Email Address, Password, Contact number, Company Name, and what you are planning to build) fields:
+         1. Store: Enter your store name.
+         2. Email Address: Enter your Email Address.
+         3. Password: Enter Password
+         4. Contact number: Enter your contact number.
+         5. Company Name: Enter your Company Name.
+         6. What are you planning to build? Briefly describe how you wanted to build your store.
+3. Select GO TO STORE button. Sit Tight, we are creating your store screen, which will be displayed. Later, you can see your store Dashboard stating that Your Trial has just started.\
+   The system displays the following quick links to set up your store:
+   * Add your catalogue
+   * Configure general information about the store
+   * Beautify Your Store Appearance, Additional Details
+   * Make static pages to strengthen your store
+   * Set up the Domain and go live
 
-You will see a message Demo Request has been submitted successfully. StoreHippo support team will reach out to you to Create your Store.
-
-To start using Free Trail option, select FREE TRIAL button. You will be directed to the Sign Up screen.
-
-Fill all the following necessary (Store Name, Email Address, Password, Contact number, Company Name and What are you planning to build) fields:
-
-* Store: Enter your store name.
-* Email Address: Enter your Email Address.
-* Password: Enter Password
-* Contact number: Enter your contact number.
-* Company Name: Enter your Company Name.
-* What are you planning to build: Briefly describe how you wanted to build your store.
-
-![](file:///C:/Users/Khushi/Dropbox/PC/Documents/My%20RoboHelp%20Projects/StoreHippo/contents/assets/images/image4.png)
-
-Select GO TO STORE button. Sit Tight, we are creating your store screen will be displayed. Later, you can see your store Dashboard stating that Your Trial has just started.
-
-It displays the following quick links to setup your store:
-
-* Add your catalogue
-* Configure general information about the store
-* Beautify Your Store Appearance, Additional Details
-* Make static pages to strengthen your store
-* Set up Domain and go live
-
-You can even select Skip button if you want to setup your store later.
-
-![](file:///C:/Users/Khushi/Dropbox/PC/Documents/My%20RoboHelp%20Projects/StoreHippo/contents/assets/images/image5.png)
-
-***
-
-### Add your catalogue
-
-* Select Add Products button to add any product for selling. It will navigate you to the [Products/Add](https://individual2.storehippo.com/admin/entity/ms.products/_add) section.
-* Select Add Categories button to add any category to group your product. It will navigate you to the [Categories](https://individual2.storehippo.com/admin/entity/ms.categories/add) section.
-
-![](file:///C:/Users/Khushi/Dropbox/PC/Documents/My%20RoboHelp%20Projects/StoreHippo/contents/assets/images/image28.png)
-
-You can select corresponding help ![](file:///C:/Users/Khushi/Dropbox/PC/Documents/My%20RoboHelp%20Projects/StoreHippo/contents/assets/images/image36.png) button next to:
-
-* Add Products to know detailed steps on how to [Add a Single Product](https://help.storehippo.com/topic/adding-a-single-product)
-* Add Categories to know detailed steps on how to [Add a Category](https://help.storehippo.com/topic/categories)
-
-You can select corresponding remove ![](file:///C:/Users/Khushi/Dropbox/PC/Documents/My%20RoboHelp%20Projects/StoreHippo/contents/assets/images/image37.png) button next to:
-
-* Add Products to remove any added product
-* Add Categories to remove any added category
-
-Similarly, select help button available next to its corresponding item to view detailed steps.
+You can even select the Skip button if you want to set up your store later.
 
 ***
