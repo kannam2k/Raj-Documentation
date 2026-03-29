@@ -1,4 +1,5 @@
 ---
+icon: folder-open
 layout:
   width: default
   title:

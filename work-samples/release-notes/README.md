@@ -1,4 +1,5 @@
 ---
+icon: newspaper
 layout:
   width: default
   title:

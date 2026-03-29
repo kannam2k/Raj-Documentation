@@ -19,7 +19,7 @@ layout:
 
 # People API
 
-### **API Overview:**
+### **API Overview**
 
 #### **Introduction**
 
@@ -35,7 +35,7 @@ Open up a terminal and use curl or httpie to make an API request for a resource.
 
 We'll use httpie for our examples as it displays responses nicely and gives us a whole lot more useful information. If you don't want to download httpie, just use the curl command instead.
 
-&#x20;**Here is the response we get:**
+**Here is the response we get:**
 
 HTTP/1.0 200 OK
 
@@ -83,7 +83,7 @@ If your response looks slightly different don't panic. This is probably because 
 
 The Base URL is the root URL for all of the API, if you ever make a request to swapi and you get back a 404 NOT FOUND response then check the Base URL first.
 
-#### **The Base URL for swapi is:**
+#### **The Base URL for swapi is**
 
 > [https://swapi.dev/api/](https://swapi.dev/api/)
 
@@ -91,7 +91,7 @@ The documentation below assumes you are prepending the Base URL to the endpoints
 
 #### **Rate limiting**
 
-Swapi has rate limiting to prevent malicious abuse (as if anyone would abuse Star Wars data!) and to make sure our service can handle a potentially large amount of traffic. Rate limiting is done via IP address and is currently limited to 10,000 API request per day. This is enough to request all the data on the website at least ten times over. There should be no reason for hitting the rate limit.&#x20;
+Swapi has rate limiting to prevent malicious abuse (as if anyone would abuse Star Wars data!) and to make sure our service can handle a potentially large amount of traffic. Rate limiting is done via IP address and is currently limited to 10,000 API request per day. This is enough to request all the data on the website at least ten times over. There should be no reason for hitting the rate limit.
 
 #### **Authentication**
 
@@ -111,137 +111,58 @@ All searches will use case-insensitive partial matches on the set of search fiel
 
 ***
 
-### **API Reference**&#x20;
+### **API Reference**
 
 #### **People**
 
 A People resource is an individual person or character within the Star Wars universe. This API is used to get all the people resources, get a specific people resource, and view the JSON schema for this resource.
 
-#### **Method:** GET
+#### **Method**
 
-#### **Request URL:**
+GET
+
+#### **Request URL**
 
 > [https://swapi.dev/api/people](https://swapi.dev/api/people)
 
-#### **Request Headers:**
+#### **Request Headers**
 
-Authorization / Authentication: No Auth
+| Header                         | Value            |
+| ------------------------------ | ---------------- |
+| Authorization / Authentication | No Auth          |
+| Content Type                   | application/json |
+| Accept                         | application/json |
 
-Content Type: application/json
+#### **End Point**
 
-Accept: application/json
+| Endpoint          | Description                            |
+| ----------------- | -------------------------------------- |
+| `/people/`        | Get all people resources               |
+| `/people/:id/`    | Get a specific people resource         |
+| `/people/schema/` | View the JSON schema for this resource |
 
-#### **End Point:**
+#### **Parameters**
 
-* /people/ -- get all the people resources
-* /people/:id/ -- get a specific people resource
-* /people/schema/ -- view the JSON schema for this resource
+| Parameter      | Data Type | Description                                                                                                                                                                                                        |
+| -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Name \*        | string    | The name of this person.                                                                                                                                                                                           |
+| Height \*      | string    | The height of the person in centimeters.                                                                                                                                                                           |
+| mass \*        | string    | The mass of the person in kilograms.                                                                                                                                                                               |
+| Hair\_color \* | string    | The hair color of this person. Will be `unknown` if not known or `n/a` if the person does not have hair.                                                                                                           |
+| Skin\_color \* | string    | The skin color of this person.                                                                                                                                                                                     |
+| Eye\_color \*  | string    | The eye color of this person. Will be `unknown` if not known or `n/a` if the person does not have an eye.                                                                                                          |
+| Birth\_year \* | string    | The birth year of the person, using the in-universe standard of BBY or ABY — Before the Battle of Yavin or After the Battle of Yavin. The Battle of Yavin occurs at the end of _Star Wars Episode IV: A New Hope_. |
+| gender \*      | string    | The gender of this person. Either `Male`, `Female`, `unknown`, or `n/a` if the person does not have a gender.                                                                                                      |
+| Homeworld \*   | string    | The URL of a planet resource where this person was born or lives.                                                                                                                                                  |
+| films \*       | Array     | An array of film resource URLs that this person appears in.                                                                                                                                                        |
+| species \*     | Array     | An array of species resource URLs that this person belongs to.                                                                                                                                                     |
+| Starships \*   | Array     | An array of starship resource URLs that this person has piloted.                                                                                                                                                   |
+| Vehicles \*    | Array     | An array of vehicle resource URLs that this person has piloted.                                                                                                                                                    |
+| url \*         | String    | The hypermedia URL of this resource.                                                                                                                                                                               |
+| Created \*     | String    | The ISO 8601 date and time when this resource was created.                                                                                                                                                         |
+| Edited \*      | String    | The ISO 8601 date and time when this resource was last edited.                                                                                                                                                     |
 
-#### **Parameters:**
-
-**Parameter**
-
-**Data Type**
-
-**Description**
-
-Name \*
-
-string
-
-The name of this person.
-
-Height \*
-
-string
-
-The height of the person in centimeters.
-
-mass \*
-
-string
-
-The mass of the person in kilograms.
-
-Hair\_color \*
-
-string
-
-The hair color of this person. Will be "unknown" if not known or "n/a" if the person does not have hair.
-
-Skin\_color \*
-
-string
-
-The skin color of this person.
-
-Eye\_color \*
-
-string
-
-The eye color of this person. Will be "unknown" if not known or "n/a" if the person does not have an eye.
-
-Birth\_year \*
-
-string
-
-The birth year of the person, using the in-universe standard of BBY or ABY - Before the Battle of Yavin or After the Battle of Yavin. The Battle of Yavin is a battle that occurs at the end of Star Wars episode IV: A New Hope.
-
-gender \*
-
-string
-
-The gender of this person. Either "Male", "Female" or "unknown", "n/a" if the person does not have a gender.
-
-Homeworld \*
-
-string
-
-The URL of a planet resource, a planet that this person was born on or inhabits.
-
-films \*
-
-Array
-
-An array of film resource URLs that this person has been in.
-
-species \*
-
-Array
-
-An array of species resource URLs that this person belongs to.
-
-Starships \*
-
-Array
-
-An array of starship resource URLs that this person has piloted.
-
-Vehicles \*
-
-Array
-
-An array of vehicle resource URLs that this person has piloted.
-
-url \*
-
-String
-
-The hypermedia URL of this resource.
-
-Created \*
-
-String
-
-The ISO 8601 date format of the time that this resource was created.
-
-Edited \*
-
-String
-
-The ISO 8601 date format of the time that this resource was edited.
-
-#### **Response Codes:**
+#### **Response Codes**
 
 Every web code returns a response code to display whether it is successful or had an error.
 
@@ -249,17 +170,13 @@ Every web code returns a response code to display whether it is successful or ha
 
 **Description**
 
-200 OK
+| Response Code | Description          |
+| ------------- | -------------------- |
+| 200 OK        | Successful operation |
+| 400           | Invalid input        |
+| 404           | Resource not found   |
 
-Successful operation
-
-400
-
-Invalid input
-
-404
-
-#### **Example Response:**
+#### **Example Response**
 
 ```
 {

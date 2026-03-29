@@ -1,3 +1,7 @@
+---
+icon: diagram-project
+---
+
 # Technical Projects
 
 ### ⚙️ Technical Expertise Beyond Technical Writing
@@ -23,4 +27,3 @@ Through this project, I demonstrated that my expertise extends beyond documentat
 * **Adding strategic value** by aligning technical solutions with business goals.
 
 ***
-

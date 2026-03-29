@@ -1,4 +1,5 @@
 ---
+icon: robot
 layout:
   width: default
   title:

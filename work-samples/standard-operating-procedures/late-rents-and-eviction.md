@@ -21,288 +21,250 @@ layout:
 
 **Standard Operating Procedure**
 
-| **Maintenance > Payments > How to Process bills?** |   |                       |         |
-| -------------------------------------------------- | - | --------------------- | ------- |
-| **Owner**                                          |   | **Current version**   | **1.0** |
-| **Created by**                                     |   | **Date of creation**  |         |
-| **Approved by**                                    |   | **Last updated date** |         |
+| **Maintenance > Payments > How to Process Bills?** |   | **Current Version**  | **1.0** |
+| -------------------------------------------------- | - | -------------------- | ------- |
+| **Owner**                                          |   | **Created by**       |         |
+| **Approved by**                                    |   | **Date of creation** |         |
+| **Last updated date**                              |   |                      |         |
 
-| **Document Version Management** |                |                 |             |                 |
+| **Document Version Management** | **Updated by** | **Approved by** | **Version** | **Description** |
 | ------------------------------- | -------------- | --------------- | ----------- | --------------- |
-| **Date of update**              | **Updated by** | **Approved by** | **Version** | **Description** |
 |                                 |                |                 |             |                 |
 |                                 |                |                 |             |                 |
 
-### PURPOSE:
+### Purpose
 
-This SOP provides step-by-step instructions to be followed to evict when any Tenant fails to pay rent within the stipulated timeframe.
+This SOP provides step-by-step instructions for handling late rent and starting the eviction process when a tenant fails to pay rent within the required timeframe.
 
-### OBJECTIVE:
+### Objective
 
-1. Follow up with Tenants who aren't paying rent on time
-2. Apply Late Charges
-3. Initiate Eviction Process if still unpaid
+1. Follow up with tenants who do not pay rent on time.
+2. Apply late charges.
+3. Initiate the eviction process if the rent remains unpaid.
 
-### PROCESS OVERVIEW:
+### Process Overview
 
-1. When any Tenant is due 10 days of paying their rent:
-   1. Verify whether the rent is still paid or not
-   2. Follow up and request payment
-2. If still there is no response, start the eviction process.
+1. When a tenant becomes 10 days late on rent:
+   1. Verify whether the rent is still unpaid.
+   2. Follow up and request payment.
+2. If there is still no response, start the eviction process.
 
 _Note:_
 
-* _Do not wait for more than 10 days. Initiate the Eviction process immediately. For example, if the rent is due on 1st November and the current date is 10th November, they are already due for 10 days. Hence, immediately call the attorney and start the eviction process on the 10th day itself._
-* _Exception: If the Tenant has a long history with us and never paid late, try to reach them for another 2 more days using the hammer time approach. If there is still no response, then start the Eviction process._
+* _Do not wait longer than 10 days. Start the eviction process immediately. For example, if the rent is due on 1 November and the current date is 10 November, the tenant is already 10 days late. Call the attorney and start the eviction process on the 10th day._
+* _Exception: If the tenant has a long history with us and has never paid late, try to reach them for 2 more days using the hammer-time approach. If there is still no response, start the eviction process._
 
-### LATE RENTS
+### Late Rents
 
-#### LATE RENT FOLLOW UP STEPS: <a href="#heading-h.jzleybp6ljdt" id="heading-h.jzleybp6ljdt"></a>
+#### Late Rent Follow-Up Steps
 
-1. Before proceeding to follow up, follow the below steps to verify whether the payment is still due or not:
-   1. Navigate to [yesibuyhouses-invoiceowed](https://yesibuyhouses.com/admin/sage/invoicesowed) link
-   2. Check the status of Tenant’s whose payment is due 10 days
-   3. Select 10 from “Days due” drop down. The data related to selected 10 days appears.
-   4.  Check the last payment status, notes and status before proceeding with the follow up.
+1. Before following up, verify whether the payment is still due:
+   1. Navigate to [Invoices Owed](https://yesibuyhouses.com/admin/sage/invoicesowed).
+   2. Check the status of tenants whose payment is 10 days past due.
+   3. Select **10** from the **Days due** drop-down. The data for tenants 10 days past due appears.
+   4.  Check the last payment, notes, and status before proceeding with follow-up.
 
-       _Note: If the status is already “In Eviction”, check the notes column and follow the Eviction steps as mentioned in the “Eviction” section._
+       _Note: If the status is already **In Eviction**, check the notes column and follow the steps in the **Eviction** section._
 
 ![](<../../.gitbook/assets/0 (2).png>)
 
-*
-  1. Check [ZOHO](https://crm.zoho.com/crm/org635091059/tab/CustomModule58/custom-view/2135217000196839232/list) to verify whether any rent payment is made in the last 7 days
-  2. Check [YIBH](https://yesibuyhouses.com/admin/accounting/bills) and select filter “Past 7 day’s active and closed bills”
-
-1. Once confirmed that the payment is still past due using the above, follow up using the below methods and their respective scripts in sequence based on the Tenant’s response:
+2. Verify whether any payment has been made recently:
+   1. Check [ZOHO](https://crm.zoho.com/crm/org635091059/tab/CustomModule58/custom-view/2135217000196839232/list) to confirm whether any rent payment was made in the last 7 days.
+   2. Check [YIBH](https://yesibuyhouses.com/admin/accounting/bills) and select the filter **Past 7 days active and closed bills**.
+3. Once you confirm that the payment is still past due, follow up using the methods below, in sequence:
    1. Call
    2. Send email
-   3. Send Voice Mail
+   3. Send voicemail
 
 **Call Script**
 
-_Hey XXX! This is XXX calling from the Rental office. I hope everything is okay?_
+_Hey XXX! This is XXX calling from the Rental Office. I hope everything is okay._
 
-_I’m just reaching out as we haven't received your rent payment for the month of XXXX._
+_I’m reaching out because we have not received your rent payment for the month of XXXX._
 
-_Your rent amount of $ XXX plus a late fee $ XX is due immediately._
+_Your rent amount of $XXX plus a late fee of $XX is due immediately._
 
-_**\*\*\*Hear them out & Acknowledge and ask the below questions\*\*\***_
+_Hear them out, acknowledge the response, and ask the following questions:_
 
-* _Alright! Can you let me know when you are going to pay them? Can you provide me with an actual date of payment to be expected?_
-* _And how much will you pay?_
-* _What would be the payment method? (eg. bank transfer, bill.com)_
+* _Can you let me know when you are going to make the payment? Can you provide an exact payment date?_
+* _How much will you pay?_
+* _What will be the payment method? For example, bank transfer or bill.com._
 
-_Positive Response -> Wonderful! I’ll make a note of that and come back to you if we find any difficulties in receiving the payment. Have an amazing day ahead! Cheers, Bye!_
+_Positive response → Wonderful. I’ll make a note of that and follow up if we have any difficulty receiving the payment. Have an amazing day ahead. Cheers, bye._
 
-_Negative Response -> I understand that these things happen occasionally due to financial difficulties but I hope you understand we cannot furnish free housing without getting into financial difficulties ourselves. I suggest it is always to your benefit to pay before any legal actions are pursued as it would affect your credit history and overall credit rating._
+_Negative response → I understand that these situations can happen because of financial difficulties. However, I hope you understand that we cannot provide free housing without facing financial difficulties ourselves. It is always in your best interest to pay before any legal action is pursued, as it may affect your credit history and overall credit rating._
 
-_Because, as per the protocols, if your rent payment remains past due, we are obliged to commence the eviction proceedings immediately. I’m really hoping we don't have to go that far and make it difficult for you to find rental homes in the future as well as these will reflect on your credit history. Hope you understand the situation. Thanks, bye!_
+_As per protocol, if your rent payment remains past due, we are required to begin eviction proceedings immediately. I’m hoping we do not have to go that far, because it may make it difficult for you to find rental housing in the future and it may also affect your credit history. I hope you understand the situation. Thanks, bye._
 
-**E-mail Template (If unable to reach via call)**
+**Email Template (if unable to reach by call)**
 
-_Subject: Past-Due Rent Notice_
+> **Subject:** Past-Due Rent Notice
+>
+> **Date (dd/mm/yyyy):** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+>
+> **Tenant’s name(s):** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+>
+> **Address of rental unit:**\
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+>
+> This notice is to inform you that we have not received your rent payment, which was due on \_\_\_\_\_\_\_\_\_\_. This payment is owed for the period of \_\_\_\_\_\_\_\_ to \_\_\_\_\_\_\_\_.
+>
+> According to the terms of your rental agreement, you are also responsible for a late rent fee of $\_\_\_\_\_\_. Combined with the rent payment, the total amount of \_\_\_\_\_\_\_\_ is due by \_\_\_\_\_\_ (date).
+>
+> If you have any questions or believe this is a mistake, you can contact me at (\_\_\_) \_\_\_-\_\_\_\_\_.
+>
+> Looking forward to hearing from you.
+>
+> Sincerely,\
+> XXX\
+> The Rental Office
 
-_Date (dd/mm/yyyy): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-_Tenant’s name(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-_Address of rental unit:_
-
-_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-_This notice is to inform you that we have not received your rent payment which was due on \_\_\_\_\_\_\_\_\_\_. This payment is owed for the time period of \_\_\_\_\_\_\_\_ to \_\_\_\_\_\_\_\_._
-
-_According to the terms of your rental agreement, you are also responsible for a late rent fee of $\_\_\_\_\_\_. In combination with the rent payment, the total amount of \_\_\_\_\_\_\_\_ is due by \_\_\_\_\_\_(date)\_\_\_\_\_\_._
-
-_If you have any questions or believe this is a mistake, you can contact me at (\_\_\_) \_\_\_-\_\_\_\_\_._
-
-_Looking forward to hear from you._
-
-_Sincerely,_
-
-_XXX_
-
-_The Rental Office_
-
-**Voice Mail Template (If unable to reach via call)**
+**Voicemail Template (if unable to reach by call)**
 
 _Hey XXX!_
 
-_This is XXX from the Rental office. I hope everything is okay on your end?_
+_This is XXX from the Rental Office. I hope everything is okay on your end._
 
-_I’m trying to reach out as we haven't received your rent payment for the month of XXXX._
+_I’m trying to reach you because we have not received your rent payment for the month of XXXX._
 
-_Your rent amount of $ XXX plus a late fee $ XX is due immediately._
+_Your rent amount of $XXX plus a late fee of $XX is due immediately._
 
-_I just wanted to remind you. as per the protocols, if your rent payment remains past due, we are obliged to commence the eviction proceedings immediately. Hope you understand the situation._
-
-_Looking forward to hear from you._
-
-_Have an amazing day ahead! Cheers, Bye!_
-
-### EVICTION <a href="#eviction" id="eviction"></a>
-
-#### EVICTION - STEPS TO FOLLOW: <a href="#heading-h.voghkvv0njoc" id="heading-h.voghkvv0njoc"></a>
-
-1. If the Tenant’s rent payment is already 10 days past due, and no success through “Late Rent Follow up” process as mentioned above, e-mail the attorney using the Email Template for the specific submarket and ask them to start the eviction process. Attach the Lease document, Ledger, and also the Intake Form along with the e-mail.
-   1. Lease copy of the respective Tenant can be found in the contacts module under the “Attachments” section at the very bottom of the page.<br>
-
-![](<../../.gitbook/assets/1 (2).png>)
-
-*
-  1. Ledger can found under [Sage Invoices](https://yesibuyhouses.com/admin/sage/invoices)
-     1. Search for the customer name under invoices and download as Excel, CSV, or PDF to attach in the e-mail to be sent to the eviction attorney.
-
-![](<../../.gitbook/assets/2 (1).png>)
-
-*
-  1. [Intake Form](https://drive.google.com/drive/u/0/folders/1SiR7Lj0frRyvBQpn_x14Ja12DtXosl8R) template
-
-**E-MAIL TEMPLATE**
-
-_Subject: START EVICTION REQUEST for \[Property Address]_
-
-_Hello Atty. XXXX,_
-
-_Good Day!_
-
-_This is XXX from SSG Real Estate working with Avi and Maryellen._
-
-_May we request you to start eviction for tenant Nicole Brewster - 96 Coen St (2nd flr)? (Include Name and Address of the tenant)_
-
-_Please see attached Intake form, Lease and Ledger for your reference._
+_I just wanted to remind you that, as per protocol, if your rent payment remains past due, we are required to begin eviction proceedings immediately. I hope you understand the situation._
 
 _Looking forward to hearing from you._
 
-_Sincerely,_
+_Have an amazing day ahead. Cheers, bye._
 
-_XXX_
+### Eviction
 
-_The Rental Office_
+#### Eviction Steps to Follow
 
-1. After sending an email, follow up with attorney via call immediately asking them when they can serve the Notice to Quit (NTQ). If they say tomorrow, enter the follow up date on eviction with tomorrow's date and in the Next Step Eviction, enter “Call tomorrow to confirm if NTQ was served”.
+1. If the tenant’s rent payment is already 10 days past due and the **Late Rent Follow-Up** process has been unsuccessful, email the attorney for the specific submarket and ask them to start the eviction process.
+2. Attach the **Lease**, **Ledger**, and **Intake Form** to the email.
+   1. The lease copy can be found in the Contacts module under the **Attachments** section at the bottom of the page.
 
-_Note: NTQ is basically an order to pay now or move out in 5 days so essentially giving Tenants a 5 day notice period._
+![](<../../.gitbook/assets/1 (2).png>)
 
-1. Follow up again with the attorney as per the Next Step Eviction to verify if they have served NTQ. If yes, get a copy of the NTQ and upload in the Eviction module. Also, ask when does the NTQ date expires because it is the legal 1st date where we can file in the court to start the eviction in the courts.
+2. The ledger can be found under [Sage Invoices](https://yesibuyhouses.com/admin/sage/invoices).
+   1. Search for the customer name under invoices and download the file as Excel, CSV, or PDF to attach to the email.
+
+![](<../../.gitbook/assets/2 (1).png>)
+
+3. Use the [Intake Form](https://drive.google.com/drive/u/0/folders/1SiR7Lj0frRyvBQpn_x14Ja12DtXosl8R) template.
+
+**Email Template**
+
+> **Subject:** START EVICTION REQUEST for \[Property Address]
+>
+> Hello Atty. XXXX,\
+> Good day!
+>
+> This is XXX from SSG Real Estate, working with Avi and Maryellen.
+>
+> May we request that you start eviction for tenant Nicole Brewster - 96 Coen St (2nd flr)? Please include the tenant’s name and address.
+>
+> Please see the attached Intake Form, Lease, and Ledger for your reference.
+>
+> Looking forward to hearing from you.
+>
+> Sincerely,\
+> XXX\
+> The Rental Office
+
+3. After sending the email, call the attorney immediately and ask when they can serve the **Notice to Quit (NTQ)**.
+   1. If they say tomorrow, enter tomorrow’s date as the eviction follow-up date.
+   2. In **Next Step Eviction**, enter: _Call tomorrow to confirm if NTQ was served._
+
+_Note: NTQ is an order to pay immediately or move out within 5 days. In effect, it gives tenants a 5-day notice period._
+
+4. Follow up again with the attorney according to the **Next Step Eviction** date to verify whether the NTQ has been served.
+   1. If yes, get a copy of the NTQ and upload it in the Eviction module.
+   2. Ask when the NTQ expires, because that is the first legal date on which a court filing can begin.
 
 _Note:_
 
-* _This is a key date because until we start a court filing, we can't get a court date and we can't start a court date without a NTQ served._
-* _Typically, the date from which you serve the NTQ and presuming you file the court papers the very day you are eligible you can't even get tenants out for about 2 months best case. (In PG county Maryland, it is 6 months). Hence, it is imperative that these are to be done on a timely basis._
+* _This is a key date because we cannot get a court date until the court filing starts, and we cannot start a court filing without an NTQ being served._
+* _Even if you file court papers on the first eligible day, tenants usually cannot be removed for about 2 months at best. In PG County, Maryland, it can take 6 months. Because of this, all steps must be completed on time._
 
-1. In NTQ expiry date, update the NTQ date you got from attorney.
-2. If they fail to pay within NTQ, start a legal proceeding to begin to vacate them.
-3. On the NTQ expire date, call the attorney to confirm if they have filed with the court hammer time. If not, ask them to file.
-4. Ask the attorney the next step in the legal process and get copy of filing to put in eviction next steps.
-5. Get court date and Actual Court Date:
-   1. Enter Estimated Court Date and Actual Court Date in eviction module and put this as next step on eviction and next step eviction follow up date.
+5. Update the **NTQ expiry date** in the system using the date provided by the attorney.
+6. If the tenant does not pay within the NTQ period, proceed with legal action to vacate the property.
+7. On the NTQ expiry date, call the attorney to confirm whether they have filed with the court. If not, ask them to file immediately.
+8. Ask the attorney for the next legal step and get a copy of the filing to upload to the eviction notes.
+9. Get the **Estimated Court Date** and **Actual Court Date**.
+   1. Enter both dates in the eviction module.
+   2. Add the next step and follow-up date in the eviction record.
 
-_Note: Some jurisdictions when you file NTQ will give you a court date online, some will Connecticut give an answer date where the tenant can respond why they did not pay. While the others say that attorney will receive the court date by mail. Moreover, the attorney for property manager should typically know approximately how long it will take to get a court date._
+_Note: Some jurisdictions provide a court date online after filing the NTQ. In Connecticut, the tenant may first receive an answer date. In other places, the attorney may receive the court date by mail. The attorney or property manager should generally know how long it will take to get a court date._
 
-*
-  1. Get Actual court: 1 day before court you will need to update attorney with latest ledger since the Tenant may have paid some rent. Notify them that they have sent it.
-
-1. On day of court, put in eviction steps what happened at court
-   1. Execution: If the tenant did not respond because of a car accident or any other unfortunate incident, then usually we have to wait for 5-10 days to file. So, in this case, ask attorney about the next step. If attorney says we can execute file in 10 days, put that date as next follow up date and put next step as call attorney to confirm he/she has filed for the execution.
-2. After execution is filed, it has to be granted by the judge, follow up with attorney if it was granted and know the next step.
+10. One day before court, send the attorney the latest ledger because the tenant may have paid some rent in the meantime.
+11. On the court date, update the eviction steps with what happened in court.
+12. **Execution:** If the tenant did not respond because of a car accident or another serious issue, there may be a wait of 5 to 10 days before filing for execution. Ask the attorney what the next step is. If the attorney says execution can be filed in 10 days, set that as the next follow-up date and add the next step: _Call attorney to confirm execution was filed._
+13. After execution is filed, the judge must approve it. Follow up with the attorney to confirm whether it was granted and ask for the next step.
 
 _Note:_
 
-* _Typically after it is granted, the judge in court will send the execution approval to the Sheriff's department in Maryland, DC, and Virginia. Gather Sheriff Department contact details from Attorney/Property Manager and confirm if they have received the approval and then ask them approximately when they will pull the tenants out._
-* _In some counties like PG, even though the Sheriff gets the execution request they may not be able to pull the Tenant out for 3-6 months as they are a small office. So, it is critical to know approximately when they can pull them out. If they can’t get you the exact date, ask them for the approximate date to follow up. For example, if they say 2 weeks, enter that in next step, but call within 1 week for a follow up._
+* _After execution is granted, the court usually sends the approval to the Sheriff’s Department in Maryland, DC, and Virginia. Get the Sheriff Department contact details from the attorney or property manager. Confirm they received the approval and ask when they expect to remove the tenants._
+* _In some counties, such as PG County, the Sheriff may not be able to remove the tenant for 3 to 6 months because the office is small. It is critical to ask for at least an approximate removal date. If they say 2 weeks, record that in the next step, but call again within 1 week to follow up._
 
-1. Know about several dates in advance before the date Sheriff Pulls the Tenant out because:
-   1. We need to put utilities in our name
-   2. We have to send someone to the house to change the locks.
-   3. In some jurisdictions like PG county and Maryland, they also make us hire 25 people to move the tenants stuff to the street curb.
-   4. In CT, the attorney needs to work with sheriff who hires moving company (which we have to pay for) to move their belongings to curb.
+14. Prepare for the Sheriff removal date in advance:
+15. Put utilities in our name.
+16. Send someone to the house to change the locks.
+17. In some jurisdictions, such as PG County, Maryland, we may need to hire 25 people to move the tenant’s belongings to the curb.
+18. In Connecticut, the attorney works with the Sheriff, who hires a moving company. We are responsible for paying that cost.
+19. Inform the team well before the Sheriff removal date so utilities, lock changes, repairs, and advertising for rent or sale can be coordinated.
 
-So, this date we must let everyone on our team know the date is pulling tenant out of the home and you need to know that we have someone going to house to change locks. Also, we will then need to coordinate with repairs and advertise for rent/sale or both.
+In some cases, the Sheriff sends a letter informing the tenant that removal is scheduled, giving them a few days to move out voluntarily. This is the best-case outcome because it saves time and money. That is why it is important to stay in touch with the tenant. Legally, if the tenant cooperates and hands over the keys, they are considered moved out.
 
-In between, the Sheriff normally delivers a letter informing Tenants they are coming to vacate them so they give them a few days to move out peacefully, which is the best case if it happens we can save money and time, this is why it’s important to stay in touch with Tenant as well. Legally if Tenant is cooperative and gives us keys that is legally they are moved out.
+16. When the tenant vacates, whether by Sheriff removal or voluntary move-out, update the ZOHO contact with the actual move-out date and change the tenant type to **Tenant moved out**.
+17. Inform the team, accounting, Cristina, and office staff.
+18. Complete the tenant move-out steps:
+19. Remove or stop the recurring tenant invoice in bill.com so they stop receiving invoices.
+20. Mark the contact as moved out.
+21. Calculate the security deposit return and refund any eligible amount within 30 days after deducting money owed, damages, or fees.
 
-1. When we vacate tenant whether by Sheriff or they vacate themselves and handover keys to us, update ZOHO contact regarding their actual move out date and Tenant type to Tenant moved out.
-2. Inform our team, accounting and Cristina and office staff.
-3. Perform tenant moved out steps:
-   1. Remove/stop recurring Tenant invoice in bill.com so they stop getting invoices
-   2. Mark contacts as moved out
-   3. Calculate security deposit return and revert to them if they are eligible to receive any after money owed or damages or any fees within 30 days.
+#### Eviction Steps
 
-#### EVICTION STEPS:
+<table><thead><tr><th width="70.1112060546875">#</th><th>Step Description</th><th>Who</th></tr></thead><tbody><tr><td>1</td><td>Follow the late rent process.</td><td>Property Manager</td></tr><tr><td>2</td><td>If the tenant fails to answer the call or refuses to respond after 5 attempts, start the eviction process.</td><td>Property Manager</td></tr><tr><td>3</td><td>Call the designated attorney in that market and request that a Notice to Quit be served. Share the amount owed, how many days are due, and how many times the tenant has paid late.</td><td>Property Manager</td></tr><tr><td>4</td><td>Request the date when the NTQ will be served. Add this information to the tenant’s notes in Sage.</td><td>Property Manager</td></tr><tr><td>5</td><td>Add the Eviction Date and Follow-Up Date.</td><td>Property Manager</td></tr><tr><td>6</td><td>On the date provided by the attorney, follow up to confirm whether the NTQ was served.</td><td>Property Manager</td></tr><tr><td>7</td><td>After 5 days have passed from the NTQ service date, continue with the eviction process.</td><td>Property Manager</td></tr></tbody></table>
 
-| **#** | **Step Description**                                                                                                                                                                                                              | **Who**          |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| **1** | Follow the Late rent process                                                                                                                                                                                                      | Property Manager |
-| **2** | If the Tenant fails to answer the call or refuses to answer the call after 5 attempts, start the eviction process                                                                                                                 | Property Manager |
-| **3** | <p>Call the designated attorney in that market and request a Notice to Quit to be served</p><ul><li>Give details of the amount owed</li><li>How many days are due</li><li>How many times was the tenant late in payment</li></ul> | Property Manager |
-| **4** | Request a date on when the NTQ will be served. This information will be placed on the tenant’s notes on Sage.                                                                                                                     | Property Manager |
-| **5** | Add the Eviction Date and Follow-Up Date                                                                                                                                                                                          | Property Manager |
-| **6** | On the date advised by the attorney, follow up on the NTQ if this was already served                                                                                                                                              | Property Manager |
-| **7** | After 5 days of the NTQ being served, start the eviction process                                                                                                                                                                  | Property Manager |
+#### Contact Details
 
-#### CONTACT DETAILS:
+| Market / County               | Person                              | Phone           | Address / Notes                                                                                                      |
+| ----------------------------- | ----------------------------------- | --------------- | -------------------------------------------------------------------------------------------------------------------- |
+| MD and some VA / DC evictions | Allison Williams                    | 443-545-6698    | Associates Property Management, 10515 Theodore Green Blvd, Suite 201, White Plains, MD 20695. Office: (301) 934-9985 |
+| VA Beach / Richmond           | Seth                                | See ZOHO        | Seth helps in these markets, not Allison.                                                                            |
+| CT evictions                  | Joseph Sastre                       | +1 203-530-8367 | —                                                                                                                    |
+| Northern VA                   | Betsy Ross                          | —               | —                                                                                                                    |
+| Roanoke market                | The Law Office of James Steele PLLC | 1 540-339-7775  | 927 Emerald. See ZOHO vendor record.                                                                                 |
 
-| **COUNTY**              | **PERSON**                                                  | **PHONE**    | **ADDRESS**                                                                                                                                   |
-| ----------------------- | ----------------------------------------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| For MD and VA evictions | Allison Williams – Helps on VA beach/Richmond market and DC | 443-545-6698 | <p>Associates Property Management -</p><p>10515 Theodore Green Blvd, Suite 201</p><p>White Plains, MD 20695</p><p>(301) 934-9985 - Office</p> |
-| CT evictions            | Joseph Sastre                                               | +12035308367 | -                                                                                                                                             |
-| Northern VA             | Betsy Ross                                                  | -            | -                                                                                                                                             |
+#### Eviction Checklist
 
-not va beach not richmond but seth will help in those markets
+Daily checklist for each eviction phase:
 
-\=======================
+* ☐ Check the summary on the [ZOHO Dashboard](https://crm.zoho.com/crm/org635091059/tab/Dashboards).
+* ☐ Check whether we missed notifying any attorney about an eviction.
+* ☐ Check whether any tenant still owes money on the [Invoices Owed](https://yesibuyhouses.com/admin/sage/invoicesowed) page and is ignoring calls. If yes, start the eviction process immediately.
+* ☐ Check whether any attorney has not sent out the NTQ after being asked to start eviction.
+* ☐ Check whether the NTQ copy has been received.
+* ☐ If not, follow up and request the NTQ.
+* ☐ After receiving the NTQ copy, track whether the NTQ has been served to the tenant.
+* ☐ Check the NTQ expiry date to see whether we are eligible to open a court case.
+* ☐ Check which files still do not have a court filing, court date, or estimated court date.
+* ☐ Follow up with the attorney or property manager to ask when a court date can be expected and request a copy of the filing. If they have a court date, enter it. If not, ask for an estimated date.
+* ☐ On the day of court, check whether compliance is being followed, confirm whether we received a stipulated agreement, and track all agreed payment dates.
 
-The Law Office of James Steele PLLC for Roanoke market 927 emerald see zoho vendor 15403397775
+#### Eviction Phases by County
 
-#### EVICTION CHECKLIST:
+<table><thead><tr><th width="53.5555419921875">#</th><th>Phase</th><th width="201.333251953125">CT</th><th width="163.5555419921875">Maryland</th><th width="99.1112060546875">DC</th><th>Virginia</th></tr></thead><tbody><tr><td>1</td><td>Notice to Quit</td><td>Can start after rent is 5 days late.</td><td>No 5-day notice.</td><td>No 5-day notice. The attorney must file.</td><td>Must file a notice to quit with the Sheriff.</td></tr><tr><td>2</td><td>Summary Process</td><td>If the tenant does not move out, summary process can begin after 14 days. Court fees are about $200.</td><td>The attorney files court papers that also go to the tenant. They file online and can usually get a court date within a few days.</td><td>Same as Maryland.</td><td>Same as Maryland.</td></tr><tr><td>3</td><td>Court date with tenant</td><td>In CT, the court first requires mediation. If it fails, a later court date is scheduled and must be tracked.</td><td>If we win, the court usually has a waiting period of about 10 days. If the tenant does not move out, a writ of possession is filed and then sent to the Sheriff.</td><td>Same general process as Maryland.</td><td>Same general process as Maryland.</td></tr><tr><td>4</td><td>Filing for possession after judgment</td><td>If we win, the court notifies all parties. We usually wait about 10 days. If the tenant does not move out, we file for possession. Once granted, we give the possession notice to the Sheriff.</td><td>Same general process.</td><td>Same general process.</td><td>Same general process.</td></tr><tr><td>5</td><td>Sheriff receives possession notice</td><td>Once the Sheriff has the possession papers, contact them and ask when they plan to remove the tenant’s belongings to the curb. We must pay for movers and track the date.</td><td>Same general process.</td><td>Same general process.</td><td>Same general process.</td></tr><tr><td>6</td><td>Sheriff removal and possession</td><td>The Sheriff removes the tenant. We must have someone at the house to change locks and pay for moving items to the curb.</td><td>The Sheriff removes the tenant. We must change locks and pay for moving items to the curb. In Maryland, we may need to hire 25 people to move belongings to the curb.</td><td>Similar to Maryland.</td><td>The Sheriff removes the tenant. We must have someone at the house to change locks.</td></tr></tbody></table>
 
-Daily Checklist to check each Eviction phase:
+#### Exceptions Due to COVID Protection
 
-☐ Check the summary on [ZOHO Dashboard](https://crm.zoho.com/crm/org635091059/tab/Dashboards)
+The overall steps remain the same. The only difference is the NTQ timing.
 
-☐ Check if we have missed to notify any Evictions to attorney
-
-☐ Check if any Tenant still owes money (on [Invoices – Owed](https://yesibuyhouses.com/admin/sage/invoicesowed) page) and are ignoring calls. If yes, start Eviction process right away.
-
-☐ Check if any attorney has not sent out NTQ after you asked them to start eviction.
-
-☐ Check if NTQ copy is received or not.
-
-☐ If no, reach out to them and ask to send NTQ.
-
-☐ After receiving the NTQ copy, ensure to track the progress of getting this NTQ served to Tenant.
-
-☐ Check the NTQ expire day to see whether we are eligible to open up a court case
-
-☐ Check to see which files the attorney has not opened up a court case (that means we did not get a court date or an estimated court date).
-
-☐ Follow up with the attorney or property manager/agent when you can expect a court date and get copy of the filing. If they have a date, enter the court date. If they have no date, ask for an estimated court date.
-
-☐ On day of court, check whether compliance is followed or not ensuring whether we got stipulated agreement to all pay dates we agreed to and also track its progress.
-
-#### EVICTION PHASES WITH RESPECTIVE DIFFERENT COUNTIES:
-
-| **#** | **Phase**                                                                                         | **CT**                                                                                                                                                                                                                                                                                                              | **Maryland**                                                                                                                                                                                                                                                                                                        | **DC**                                                                                                                                                                                                                                                                                                                   | **Virginia**                                                                                                                                                                                                                                                                                                     |
-| ----- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | Notice to Quit                                                                                    | We can start after 5 days late on rent                                                                                                                                                                                                                                                                              | No 5 day notice                                                                                                                                                                                                                                                                                                     | No 5 day notice we have to have attorney file                                                                                                                                                                                                                                                                            | We have to file with a sheriff a notice to quit                                                                                                                                                                                                                                                                  |
-| **2** | Summary Process                                                                                   | If tenants does not move out we can start summary process after 14 days this costs about 200 in court fees                                                                                                                                                                                                          | Attorney files court papers that go to tenants too. They file online and can get a court date for us in few days.                                                                                                                                                                                                   | Attorney files court papers that go to tenants too. They file online and can get a court date for us in few days.                                                                                                                                                                                                        | Attorney files court papers that go to tenants too. They file online and can get a court date for us in few days.                                                                                                                                                                                                |
-| **3** | Court date with Tenant , Court rules in our favor or not                                          | On day of court in CT, they make us mediate to try to resolve. If we can’t they will schedule a court date for further date, we need to track this date                                                                                                                                                             | On court date, if we win, the court has a waiting period of about 10 days. If tenant does not move out in those days they file for a writ of possession that then goes to sheriff, who have to coordinate with on when they can pull tenants out                                                                    | On court date, if we win, the court has a waiting period of about 10 days. If tenant does not move out in those days they file for a writ of possession that then goes to sheriff ,who have to coordinate with on when they can pull tenants out                                                                         | On court date, if we win, the court has a waiting period of about 10 days. If tenant does not move out in those days they file for a writ of possession that then goes to sheriff ,who we have to coordinate with on when they can pull tenants out                                                              |
-| **4** | If we get award the court makes you wait a certain number of days then we can file for possession | On court date, if we win, the court notifies all parties that we won. However, we have to wait 10 days approximately. If tenant does not move out then we have to file for possession and that can take some more days. Once they grant possession then we can get that possession court notice and give to Sherrif | On court date, if we win, the court notifies all parties that we won, However, we have to wait 10 days approximately, if tenant does not move out then we have to file for possession and that can take some more days. Once they grant possession then we can get that possession court notice and give to Sheriff | On court date, if we win, the court notifies all parties that we have won. However, we have to wait 10 days approximately, if tenant does not move out then we have to file for possession and that can take some more days. Once they grant possession then we can get that possession court notice and give to Sherrif | On court date if we win the court notifies all parties that we won, however we have to wait 10 days approximately, if tenant does not move out then we have to file for possession and that can take some more days. Once they grant possession then we can get that possession court notice and give to Sherrif |
-| **5** | Sheriff gets notice from court that we were granted possession and can get tenants out            | Once sheriff has possession papers, we have to contact them and ask when they are going to move tenant’s items to curb. We have to pay for movers to move stuff to curb. We need to track this date. They usually work with attorney but we can call.                                                               | Once sheriff has possession papers we have to contact them and ask when they are going to house to move tenant’s items to curb. We have to pay for movers to move stuff to curb. We need to track this date. They usually work with attorney but we can call.                                                       | Once sheriff has possession papers we have to contact them and ask when they are going to house to move tenant’s items to curb. We have to pay for movers to move stuff to curb. We need to track this date. They usually work with attorney but we can call.                                                            | Once sheriff has possession papers we have to contact them and ask when they are going to house to move tenant’s items to curb. We have to pay for movers to move stuff to curb. We need to track this date. They usually work with attorney but we can call.                                                    |
-| **6** | Sheriff pulls tenants out of the house and we get possession                                      | Sheriff pulls tenants out. We need to have someone at the house to change locks and to pay sheriff for moving stuff to curb.                                                                                                                                                                                        | Sheriff pulls tenants out. We need to have someone at the house to change locks and to pay sheriff for moving stuff to curb. In MD, Sheriff forces us to hire 25 people to move all tenants stuff to curb. Then we get possession and change locks                                                                  | Sheriff pulls tenants out. We need to have someone at the house to change locks and to pay sheriff for moving stuff to curb. In MD, sheriff forces us to hire 25 people to move all tenants stuff to curb. Then we get possession and change locks                                                                       | Sheriff pulls tenants out we need to have someone at the house to change locks.                                                                                                                                                                                                                                  |
-
-Exceptions to Eviction Steps due to Covid Protection:
-
-The whole steps are the same, the only difference is with NTQ:
-
-| **FOR COUNTY** | **EXCEPTION**                                                                   |
-| -------------- | ------------------------------------------------------------------------------- |
-| CT             | We can’t file NTQ until 30 days late and only if we have a unite ct case number |
-| Maryland       | We can’t file NTQ until 14 days                                                 |
-| DC             | Similar to Maryland                                                             |
-| Virginia       | Similar to Maryland                                                             |
+| County   | Exception                                                                                          |
+| -------- | -------------------------------------------------------------------------------------------------- |
+| CT       | We cannot file an NTQ until the tenant is 30 days late, and only if we have a UniteCT case number. |
+| Maryland | We cannot file an NTQ until 14 days late.                                                          |
+| DC       | Similar to Maryland.                                                                               |
+| Virginia | Similar to Maryland.                                                                               |

@@ -1,4 +1,5 @@
 ---
+icon: plug
 layout:
   width: default
   title:

@@ -1,3 +1,7 @@
+---
+icon: video
+---
+
 # How-to Videos
 
 ### 🎥 How-To Video Documentation Experience
@@ -13,4 +17,3 @@ The value added was significant:
 * **Consistency** – Every user had access to standardized, repeatable training materials.
 
 ***
-
