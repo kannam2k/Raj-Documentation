@@ -1,3 +1,7 @@
+---
+icon: star
+---
+
 # ReviewKeep User Guide
 
 ### Login

@@ -1,4 +1,5 @@
 ---
+icon: jedi
 layout:
   width: default
   title:

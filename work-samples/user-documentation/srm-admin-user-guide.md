@@ -1,3 +1,7 @@
+---
+icon: user-shield
+---
+
 # SRM   Admin User Guide
 
 ### Revision History

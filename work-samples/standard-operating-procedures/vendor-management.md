@@ -1,4 +1,5 @@
 ---
+icon: handshake
 layout:
   width: default
   title:

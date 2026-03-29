@@ -1,3 +1,7 @@
+---
+icon: user-tie
+---
+
 # SRM   Regional Manager User Guide
 
 ### Revision History

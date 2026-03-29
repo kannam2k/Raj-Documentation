@@ -1,3 +1,7 @@
+---
+icon: graduation-cap
+---
+
 # Instructional Designer
 
 ### 🎬 Instructional Design Contribution – BE101 Project
@@ -16,4 +20,3 @@ My role involved collaborating closely with stakeholders to understand their obj
 * **Alignment**: Ensured the final training materials reflected both client requirements and instructional best practices.
 
 ***
-

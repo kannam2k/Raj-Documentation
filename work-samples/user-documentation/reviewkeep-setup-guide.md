@@ -1,3 +1,7 @@
+---
+icon: gear
+---
+
 # ReviewKeep Setup Guide
 
 ## ReviewKeep Setup Guide

@@ -1,4 +1,5 @@
 ---
+icon: gavel
 layout:
   width: default
   title:

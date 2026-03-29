@@ -1,4 +1,5 @@
 ---
+icon: users
 layout:
   width: default
   title:

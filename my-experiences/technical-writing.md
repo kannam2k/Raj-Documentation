@@ -1,3 +1,7 @@
+---
+icon: file-lines
+---
+
 # Technical Writing
 
 ### 📘 Technical Writing Overview

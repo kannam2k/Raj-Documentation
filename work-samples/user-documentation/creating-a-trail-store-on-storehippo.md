@@ -1,4 +1,5 @@
 ---
+icon: store
 layout:
   width: default
   title:
@@ -24,7 +25,7 @@ layout:
 You can start your 14-day trial store absolutely free by registering on the StoreHippo e-commerce platform. If you have not done it yet, what are you waiting for? Go ahead and create the e-commerce store of your dreams following the steps below:
 
 1. Navigate to [www.storehippo.com](http://www.storehippo.com). You can see the StoreHippo interface.
-2. To get started with your store creation, you can choose any two options: either SCHEDULE A DEMO or FREE TRIAL.&#x20;
+2. To get started with your store creation, you can choose any two options: either SCHEDULE A DEMO or FREE TRIAL.
    1. To schedule a Demo, select SCHEDULE A DEMO button. You will be directed to the Schedule a Demo screen.
       1. Fill all the following necessary fields:
          1. Name: Enter the name of the user.

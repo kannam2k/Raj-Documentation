@@ -1,3 +1,7 @@
+---
+icon: paw
+---
+
 # Create and Find a Pet   API Documentation
 
 ## Introduction

@@ -1,3 +1,7 @@
+---
+icon: globe
+---
+
 # Geodesk User Manual
 
 ## Geodesk User Manual

@@ -1,4 +1,5 @@
 ---
+icon: house
 layout: landing
 ---
 

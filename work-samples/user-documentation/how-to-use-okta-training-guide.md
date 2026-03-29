@@ -1,3 +1,7 @@
+---
+icon: key
+---
+
 # How to Use Okta Training Guide
 
 <div align="left"><img src="../../.gitbook/assets/Unknown image (205)" alt=""></div>

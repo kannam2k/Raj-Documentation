@@ -1,3 +1,7 @@
+---
+icon: chart-line
+---
+
 # Business Analyst
 
 ### 📑 Business Analyst & Technical Writing Contribution – e‑Signature Project
@@ -23,4 +27,3 @@ As a **Technical Writer**, I added value by:
 My dual contribution ensured that the project was not only technically sound but also **usable and scalable**. By combining analytical insight with clear documentation, I helped bridge the gap between business requirements and technical implementation—making the e‑Signature solution easier to adopt, reducing errors, and improving compliance across the organization.
 
 ***
-

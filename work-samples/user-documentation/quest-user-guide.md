@@ -1,3 +1,7 @@
+---
+icon: scale-balanced
+---
+
 # Quest User Guide
 
 ### Purpose
