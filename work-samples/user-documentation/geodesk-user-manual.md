@@ -6,17 +6,17 @@ icon: globe
 
 ## Geodesk User Manual
 
-Welcome to **Geodesk.ai**, a user-friendly tool designed to integrate your assay data with the comprehensive OSNACA database seamlessly and use Machine Learning to generate valuable insights. This manual will guide you through the key features, functions, and steps needed to make the most of Geodesk.
+Welcome to **Geodesk.ai**, a user-friendly tool designed to integrate your assay data with the comprehensive OSNACA database seamlessly and use Machine Learning to generate valuable insights. This manual guides you through the key features, functions, and steps needed to make the most of Geodesk.
 
 ### 1. Introduction
 
-Geodesk helps geologists and researchers upload, analyse, and compare their assay data with the OSNACA database. With built-in data validation, machine learning models, and visualisation options, it provides valuable insights that can be tailored to your preferences.
+Geodesk helps geologists and researchers upload, analyse, and compare their assay data with the OSNACA database. With built-in data validation, machine learning models, and visualisation options, it provides valuable insights that can tailor your preferences.
 
 ### 2. Getting Started
 
 The purpose of this user manual is to guide the new developers on setting up the project on their local machine.
 
-The user needs the following to get started:
+You need the following to get started:
 
 * Prerequisites (e.g., required software, versions, libraries, and dependencies)
 * Instructions for cloning the repository and setting up the environment (e.g., virtual environments, package managers)
@@ -24,20 +24,20 @@ The user needs the following to get started:
 * Running the development server or build process
 * Troubleshooting common setup issues
 
-**High-level File Overview:** Explain the structure of the project directory and the role of key files and folders.
+**High-level File Overview:** Explains the structure of the project directory and the role of key files and folders.
 
 * Description of major directories (e.g., **`/views/`, `/models/`, `/templates/`, `/static/`**)
 * Explanation of where business logic, templates, and front-end assets are located
 * Naming conventions and file organisation rules, if any
 
-**Front-end Details:** Describe the design and functionality of the front-end components, especially the spreadsheet interface and buttons.
+**Front-end Details:** Describes the design and functionality of the front-end components, especially the spreadsheet interface and buttons.
 
 * Description of key front-end files and how they interact with back-end logic
 * Explanation of JavaScript/AJAX/ components
 * Interaction patterns for user input and button functionality
 * Any custom CSS or front-end libraries used: Bootstrap5
 
-**Back-end Details:** Explain how the back-end processes user actions from the spreadsheet and the buttons.
+**Back-end Details:** Explains how the back-end processes user actions from the spreadsheet and the buttons.
 
 * Explanation of the back-end routes and their functions
 * Key Django views, controllers, and forms related to the spreadsheet
@@ -45,16 +45,16 @@ The user needs the following to get started:
 * Any middleware or API interaction details with external services
 * Explanation of session management, authentication, and authorisation (if applicable)
 
-**Database Design and Management:** Provide details about the table schemas and how data is managed in the system.
+**Database Design and Management:** Provides details about the table schemas and how data is managed in the system.
 
 * Overview of the database (e.g., PostgreSQL) and key tables
 * Relationships between tables, constraints, and indexes
 * How to perform migrations or updates to the schema
 * Any database seeding or sample data for testing
 
-**Testing and Debugging:** Provide instructions on testing the system and debugging common issues.
+**Testing and Debugging:** Provides instructions on testing the system and debugging common issues.
 
-* How to run unit tests, integration tests, or end-to-end tests — we do not have any as described by Sahaj in Phase 1 due to the time constraints
+* How to run unit tests, integration tests, or end-to-end tests
 * Explanation of test coverage and how to write new tests
 * Check if Manual Testing is done: check if error pages are shown
 * Debugging techniques (e.g., using Django debug mode, browser developer tools, logging)
@@ -69,7 +69,7 @@ The user needs the following to get started:
    4. Create a function which handles functionality for the button and add context accordingly
    5. On the front end, add a new if statement with the other buttons in the menu tab to handle this view
       1. You can choose the action to either call a JS function that does something, activate a modal, or just a form whose action is the URL
-      2. The JS function would this basic layout: (AJAX with alert)
+      2. The JS function would have this basic layout: (AJAX with alert)
 2. How to extend the back-end logic for new features:
    1. Provide steps to ensure new features integrate smoothly with existing functionality
 3. How to test and validate new features before deploying:
@@ -103,17 +103,15 @@ The user needs the following to get started:
    * Missing required fields
    * Incorrect data formats
 4. **Error Notifications**: If there are any errors encountered, the system will display a detailed message about the problem. Fix these issues in your file and re-upload it.
-5. **Successful Upload**: Upon a successful upload, a confirmation message will be displayed, and you can proceed with data analysis.
+5. **Successful Upload**: Upon a successful upload, a confirmation message displays, and you can proceed with data analysis.
 
 ### 4. Element Matching with OSNACA Database
 
 #### Automatic Matching:
 
-1. Once your data is uploaded, **Geodesk** automatically matches your assay elements with the **OSNACA** database.
-2. The successfully matched elements will be listed and aligned with the **OSNACA** reference data.
-3. Any unmatched elements will be flagged, and you will have options to:
-   * Ignore unmatched elements
-   * Adjust your input data manually
+Once your data is uploaded, **Geodesk** automatically matches your assay elements with the **OSNACA** database.
+
+The system lists and aligns the successfully matched elements with the **OSNACA** reference data; flags any unmatched elements, and you can: Ignore unmatched elements or adjust your input data manually
 
 ### 5. Handling Missing and Detection Limit Values
 
@@ -122,28 +120,24 @@ Geodesk offers flexibility when dealing with missing values or values that are b
 **Options for Handling Missing Data:**
 
 1. **Replace with Zero**: Use this option to substitute missing values with zeros.
-2. **Average Crustal Abundance**: Replace missing values with the average crustal abundance for the corresponding element.
-3. **Half Detection Limit**: Use half the detection limit for values below the detection threshold.
+2. **Average Crustal Abundance**: Replaces missing values with the average crustal abundance for the corresponding element.
+3. **Half Detection Limit**: Use to half the detection limit for values below the detection threshold.
 
-Choose the option that best suits your dataset, and Geodesk will apply it consistently across your data.
+Choose the option that best suits your dataset, and Geodesk applies it consistently across your data.
 
 ### 6. Visualising Your Data
 
 Visualising your data is crucial for identifying patterns and trends. Geodesk provides several options for creating graphs and charts.
 
-Available Visualisations:
-
-Steps to Generate Visualisations:
-
 ### 7. Machine Learning for Insights
 
-Geodesk incorporates machine learning models to provide insights based on your uploaded data. These models can help you predict trends and classify elements in your assay data.
+Geodesk incorporates machine learning models to provide insights based on your uploaded data. These models help you predict trends and classify elements in your assay data.
 
 **Using the Machine Learning Models:**
 
-1. **Select Analysis Type**: Choose the machine learning model suited for your data analysis (e.g., classification or regression).
+1. **Select Analysis Type**: Use to choose the machine learning model suited for your data analysis (e.g., classification or regression).
 2. **Train the Model**: Geodesk automatically trains the model using your data.
-3. **View Results**: Once the training is completed, the model results will be displayed, including key metrics like accuracy and error rates.
+3. **View Results**: Displays model results once the training completes, including key metrics like accuracy and error rates.
 
 #### Customising Machine Learning Parameters:
 
@@ -160,7 +154,7 @@ You can save your session at any point during analysis. This saves your uploaded
 
 #### Load a Previous Session:
 
-To resume work, simply navigate to the **“Load Session”** tab, where you can select a previously saved session. Geodesk will restore your data and settings exactly as you left them.
+To resume work, simply navigate to the **“Load Session”** tab, where you can select a previously saved session. Geodesk restores your data and settings exactly as you left them.
 
 ### 9. Error Handling and Troubleshooting
 
@@ -168,8 +162,8 @@ Geodesk provides robust error handling to ensure a smooth user experience.
 
 #### Error Messages:
 
-* **Upload Errors**: Incorrect data formats or missing fields will trigger error messages with guidance on how to resolve the issues.
-* **Analysis Errors**: Any issues found during analysis (e.g., invalid data input) will be flagged, with instructions provided for fixing them.
+* **Upload Errors**: Incorrect data formats or missing fields trigger error messages with guidance on how to resolve the issues.
+* **Analysis Errors**: The system flags any issues found during analysis (e.g., invalid data input), with instructions provided for fixing them.
 
 #### Support Resources:
 
@@ -180,7 +174,7 @@ If you encounter issues that you cannot resolve through the provided error messa
 
 ### 10. User Support and Updates
 
-Geodesk is constantly being updated with new features, enhancements, and data from the OSNACA database.
+Geodesk constantly updates its new features, enhancements, and data from the OSNACA database.
 
 #### User Support:
 
@@ -188,7 +182,7 @@ Geodesk is constantly being updated with new features, enhancements, and data fr
 
 #### System Updates:
 
-Regular updates to Geodesk will introduce new features and improved functionality. Users will be notified about major updates, including how they will benefit from the new features.
+Regular updates to Geodesk introduce new features and improved functionality. You will be notified about major updates, including how they will benefit from the new features.
 
 ### 11. Conclusion
 
@@ -210,13 +204,17 @@ To understand the Company Programming Guidelines, click [here](https://drive.goo
 
 Navigate to [PostgreSQL](https://www.postgresql.org/download/). Install the latest version of **PostgreSQL**.
 
-Open the downloaded setup file. Next, proceed with the default settings but, make sure to select the **“ADD TO PYTHON PATH”** checkbox or some other option similar to it.
+Open the downloaded setup file. Next, proceed with the default settings, make sure to select the **“ADD TO PYTHON PATH”** checkbox or some other option similar to it.
 
+{% hint style="info" %}
 _Note: If you were asked to create a password during the installation, use the password as **“pass”** (you can change this password later if you wish to)._
+{% endhint %}
 
 During the installation, under **Spatial Extensions**, select **PostGIS**.
 
+{% hint style="info" %}
 _Note: If you encounter a checkbox to create a spatial database, avoid selecting it._
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -228,7 +226,7 @@ Click **Next** to proceed with the installation process.
 {% step %}
 ### 3. Finish setup
 
-Once the installation finishes, the **SQL Shell** and **pgAdmin4** will be installed automatically.
+Once the installation finishes, the **SQL Shell** and **pgAdmin4** install automatically.
 {% endstep %}
 {% endstepper %}
 
@@ -240,7 +238,7 @@ Once the installation finishes, the **SQL Shell** and **pgAdmin4** will be insta
 {% step %}
 ### 1. Open pgAdmin4
 
-Open **“pgAdmin4”** and log in with the password setup during the installation.
+Open **“pgAdmin4”** and log in with the password set during the installation.
 {% endstep %}
 
 {% step %}
@@ -277,7 +275,7 @@ _Note: Everything in square brackets is the default value. Hit enter to keep the
 {% step %}
 ### 1. Clone the repository and install Python
 
-Clone this repo and change directory in the terminal to where the repo is stored.
+Clone this repo and change the directory in the terminal to where the repo is stored.
 
 Install **Python** version **3.8**.
 {% endstep %}
@@ -285,10 +283,10 @@ Install **Python** version **3.8**.
 {% step %}
 ### 2. Check Python and create the virtual environment
 
-Execute the code in a terminal (use command prompt for Windows users):
+Execute the code in a terminal (use the command prompt for Windows users):
 
 1. Check if **Python version 3.8** is installed using **`py -0`**.
-2. Create and activate the virtual environment using the below code:
+2. Create and activate the virtual environment using the code below:
 
 ```shell
 py -3.8 -m venv venv
@@ -299,7 +297,7 @@ py -3.8 -m venv venv
 {% step %}
 ### 3. Install the required packages
 
-Install all the required packages using the below code:
+Install all the required packages using the code below:
 
 ```shell
 py -m pip install --upgrade pip setuptools wheel
@@ -378,7 +376,7 @@ Within the same terminal, execute: `**python manage.py runserver**`.
 
 Visit this link [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
 
-Register an account and you are ready to use the application.
+Register an account, and you are ready to use the application.
 {% endstep %}
 {% endstepper %}
 
