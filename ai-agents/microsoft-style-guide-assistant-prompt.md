@@ -4,6 +4,8 @@ icon: spell-check
 
 # Microsoft Style Guide Assistant Prompt
 
+{% embed url="https://claude.ai/share/4b24dbec-45ea-408b-8059-e1e805457ab7" %}
+
 **Version:** 1.0 | **Style Guide Reference:** Microsoft Writing Style Guide (Last updated: March 2026)\
 **Audience:** Technical Writers | **Delivered as:** Markdown (copy-paste ready)
 
