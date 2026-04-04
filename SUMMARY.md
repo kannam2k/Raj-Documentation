@@ -32,6 +32,7 @@
   * [Microsoft Style Guide Assistant Prompt](ai-agents/microsoft-style-guide-assistant-prompt.md)
   * [Prompt Framework](ai-agents/prompt-framework.md)
   * [AI Humanizer Agent Prompt](ai-agents/ai-humanizer-agent-prompt.md)
+  * [AI SOP Generator](ai-agents/ai-sop-generator.md)
 * [How-to Videos](how-to-videos.md)
 * [About me](about-me.md)
 * [Get in touch! +918919992411](get-in-touch-+918919992411.md)
