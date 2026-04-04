@@ -66,7 +66,7 @@ Repeat the process again if you want to select a second business. Once done, you
 
 Select the Update button.
 
-If you want to remove a competitor, simply click on the red ![](<../../.gitbook/assets/Unknown image (8) (1)>) button to remove them and replace it with another company you want to show up on your Dashboard.
+If you want to remove a competitor, simply click on the red button to remove them and replace it with another company you want to show up on your Dashboard.
 
 ![Graphical user interface, text, application, chat or text message Description automatically generated](<../../.gitbook/assets/Unknown image (9) (1)>)
 
