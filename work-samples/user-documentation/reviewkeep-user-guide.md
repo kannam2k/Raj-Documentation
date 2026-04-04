@@ -266,7 +266,7 @@ This section shows information such as the review rating, date and time, notes, 
 
 By default, the Customer Service section shows all currently open tickets. However, if you want to view archived tickets or all tickets, select the appropriate option from the **Sort By** drop-down menu.
 
-<div align="left"><img src="../../.gitbook/assets/Unknown image (34)" alt="Graphical user interface, application Description automatically generated" width="400"></div>
+<div align="left"><img src="../../.gitbook/assets/Unknown image (34)" alt="Graphical user interface, application Description automatically generated" width="188"></div>
 
 The customer review rating and comments are shown in the **Review** column, along with the customer’s name.
 
@@ -380,7 +380,7 @@ Click in the **Set Reminder** field. A calendar box will pop up. Select the desi
 
 Click the clock icon next to the **Reminder Time** field to set the time. The clock will pop up. Select the hour first, from 1 through 12, then select the minutes. Choose **AM** or **PM**. You can drag the line to set a time other than a 5-minute increment if needed. Click **OK**. The time will then be inserted and saved.
 
-<div align="left"><img src="../../.gitbook/assets/Unknown image (55)" alt="A picture containing text, device, gauge Description automatically generated" width="400"></div>
+<div align="left"><img src="../../.gitbook/assets/Unknown image (55)" alt="A picture containing text, device, gauge Description automatically generated" width="188"></div>
 
 If you want to start over or do not want to save the date and time, click **Cancel**.
 
@@ -392,7 +392,7 @@ All reminders appear on the bell ![Graphical user interface Description automati
 
 The Marketing section of ReviewKeep lets you send cards and coupons to your customers.
 
-<div align="left"><img src="../../.gitbook/assets/Unknown image (57)" alt="" width="400"></div>
+<div align="left"><img src="../../.gitbook/assets/Unknown image (57)" alt="" width="188"></div>
 
 ### Coupons & Cards
 
@@ -406,7 +406,7 @@ Your subscription level determines how many cards or coupons you can send each d
 
 Click **Cards & Coupons** from the Marketing drop-down menu.
 
-<div align="left"><img src="../../.gitbook/assets/Unknown image (58)" alt="" width="400"></div>
+<div align="left"><img src="../../.gitbook/assets/Unknown image (58)" alt="" width="188"></div>
 
 You will be directed to the **Coupons & Cards – Select Coupon/Event Card** page.
 
