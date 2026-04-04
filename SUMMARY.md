@@ -30,6 +30,8 @@
 * [Resume](resume.md)
 * [AI Agents](ai-agents/README.md)
   * [Microsoft Style Guide Assistant Prompt](ai-agents/microsoft-style-guide-assistant-prompt.md)
+  * [Prompt Framework](ai-agents/prompt-framework.md)
+  * [AI Humanizer Agent Prompt](ai-agents/ai-humanizer-agent-prompt.md)
 * [How-to Videos](how-to-videos.md)
 * [About me](about-me.md)
 * [Get in touch! +918919992411](get-in-touch-+918919992411.md)
