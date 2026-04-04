@@ -12,7 +12,9 @@ icon: address-card
 Karimnagar, Telangana\
 [rajkannam49@gmail.com](mailto:rajkannam49@gmail.com)\
 [+91 89199 92411](tel:+918919992411)\
-[Work Samples](../work-samples/)
+[Work Samples](work-samples/)
+
+{% embed url="https://youtu.be/39c1MpbOJ3M" %}
 
 {% hint style="info" %}
 **Professional Summary**
@@ -199,4 +201,4 @@ Kokapet, Hyderabad
 * Training content
 * Documentation modernization
 
-For examples, see [Work Samples](../work-samples/).
+For examples, see [Work Samples](work-samples/).
