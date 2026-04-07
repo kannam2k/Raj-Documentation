@@ -50,10 +50,12 @@ This SOP provides step-by-step instructions for handling late rent and starting 
    2. Follow up and request payment.
 2. If there is still no response, start the eviction process.
 
+{% hint style="info" %}
 _Note:_
 
 * _Do not wait longer than 10 days. Start the eviction process immediately. For example, if the rent is due on 1 November and the current date is 10 November, the tenant is already 10 days late. Call the attorney and start the eviction process on the 10th day._
 * _Exception: If the tenant has a long history with us and has never paid late, try to reach them for 2 more days using the hammer-time approach. If there is still no response, start the eviction process._
+{% endhint %}
 
 ### Late Rents
 
@@ -263,9 +265,4 @@ Daily checklist for each eviction phase:
 
 The overall steps remain the same. The only difference is the NTQ timing.
 
-| County   | Exception                                                                                          |
-| -------- | -------------------------------------------------------------------------------------------------- |
-| CT       | We cannot file an NTQ until the tenant is 30 days late, and only if we have a UniteCT case number. |
-| Maryland | We cannot file an NTQ until 14 days late.                                                          |
-| DC       | Similar to Maryland.                                                                               |
-| Virginia | Similar to Maryland.                                                                               |
+<table><thead><tr><th width="136.22216796875">County</th><th>Exception</th></tr></thead><tbody><tr><td>CT</td><td>We cannot file an NTQ until the tenant is 30 days late, and only if we have a UniteCT case number.</td></tr><tr><td>Maryland</td><td>We cannot file an NTQ until 14 days late.</td></tr><tr><td>DC</td><td>Similar to Maryland.</td></tr><tr><td>Virginia</td><td>Similar to Maryland.</td></tr></tbody></table>
