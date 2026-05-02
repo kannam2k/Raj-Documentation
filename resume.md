@@ -14,8 +14,6 @@ Karimnagar, Telangana\
 [+91 89199 92411](tel:+918919992411)\
 [Work Samples](work-samples/)
 
-{% embed url="https://youtu.be/39c1MpbOJ3M" %}
-
 {% hint style="info" %}
 **Professional Summary**
 
